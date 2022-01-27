@@ -10,5 +10,5 @@ echo shell_exec('cd /home/admin/web/itdb.biz/public_html && /usr/bin/git pull or
 echo shell_exec('/usr/bin/whoami 2>&1');
 echo 'kuba';
 }
-//echoffdf
+//echoffdfdf
 ?>
