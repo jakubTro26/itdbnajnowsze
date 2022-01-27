@@ -129,12 +129,12 @@
 		<?php do_action("cmplz_after_buttons")?>
 	</div>
 
-	<div class="cmplz-links cmplz-documents">
+	<!--- <div class="cmplz-links cmplz-documents">
 		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
 		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
 		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
-		<?php do_action("cmplz_after_documents")?>
-	</div>
+		 <?php /* do_action("cmplz_after_documents") */?> 
+	</div> --->
 
 </div>
 
