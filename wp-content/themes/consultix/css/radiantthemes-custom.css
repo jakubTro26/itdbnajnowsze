@@ -5197,3 +5197,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 .vc_row-has-fill>.vc_column_container>.vc_column-inner{
     padding-top:0px;
 }
+
+.row1{
+    height:100px;
+}
