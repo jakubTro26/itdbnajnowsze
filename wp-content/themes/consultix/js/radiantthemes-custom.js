@@ -166,11 +166,11 @@ document.querySelector('#menu-item-11481').onclick=function(){
 	document.querySelector(".vc_custom_1519822932673").scrollIntoView();
 };
 
-document.querySelector('#butt1 a').onmouseenter=function(){
-    document.querySelector('#butt1 a').style.color="white";
+document.querySelector('.ex33e91810c94b162kuba a').onmouseenter=function(){
+    document.querySelector('.ex33e91810c94b162kuba a').style.color="white";
 }
-document.querySelector('#butt1 a').onmouseleave=function(){
-    document.querySelector('#butt1 a').style.color="#001139";
+document.querySelector('.ex33e91810c94b162kuba a').onmouseleave=function(){
+    document.querySelector('.ex33e91810c94b162kuba a').style.color="#001139";
 }
 
 
