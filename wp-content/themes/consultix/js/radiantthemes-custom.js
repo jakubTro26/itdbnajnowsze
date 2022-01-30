@@ -169,7 +169,20 @@ document.querySelector('#menu-item-11481').onclick=function(){
 	document.querySelector(".vc_custom_1519822932673").scrollIntoView();
 };
 
+document.querySelector('#butt1 a').onmouseenter=function(){
+    document.querySelector('#butt1 a').style.color="white";
+}
+document.querySelector('#butt1 a').onmouseleave=function(){
+    document.querySelector('#butt1 a').style.color="#001139";
+}
 
+
+document.querySelector('#butt2 a').onmouseenter=function(){
+    document.querySelector('#butt2 a').style.color="white";
+}
+document.querySelector('#butt2 a').onmouseleave=function(){
+    document.querySelector('#butt2 a').style.color="#001139";
+}
 
 }
 
