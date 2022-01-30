@@ -5222,6 +5222,6 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 {
 .obraz1 {
   margin-bottom:35px;
-  text-align:center;
+  text-align:center !important; 
   }
 }
