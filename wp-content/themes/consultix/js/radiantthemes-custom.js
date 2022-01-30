@@ -153,10 +153,7 @@ document.querySelector('#menu-item-11372').onclick=function(){
 	document.querySelector(".vc_custom_1642164675696").scrollIntoView();
 };
 
-document.querySelector('.vc_custom_1642766971322').onclick=function(){
-	
-	document.querySelector(".wraper_footer_main").scrollIntoView();
-};
+
 
 document.querySelector('#menu-item-11379').onclick=function(){
 	
