@@ -5201,3 +5201,14 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 .row1{
     height:133px;
 }
+
+.obraz1{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.tekst1{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
