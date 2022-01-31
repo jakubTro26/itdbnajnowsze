@@ -5219,12 +5219,6 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 
 
-@media (max-width:1189px){
-
-    .vc_empty_space{
-        height:174px;
-    }
-}
 
 
 @media (min-width: 757px)
@@ -5245,4 +5239,12 @@ body .default-page .comments-area{    padding-top: 80px !important;}
         display:none;
     }
 
+}
+
+
+@media (max-width:1189px){
+
+    .vc_empty_space{
+        height:174px;
+    }
 }
