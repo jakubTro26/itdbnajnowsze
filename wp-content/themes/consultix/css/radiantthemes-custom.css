@@ -5228,7 +5228,12 @@ body .default-page .comments-area{    padding-top: 80px !important;}
  .tekst2{
      text-align: center !important;
  } 
- .vc_empty_space{
-     display:none;
- }
+
+}
+
+@media (max-width: 757px){
+    .vc_empty_space{
+        display:none;
+    }
+
 }
