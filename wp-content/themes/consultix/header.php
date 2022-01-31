@@ -170,6 +170,6 @@
 		?>
 
 	<!-- #page -->
-	<div id="page" class="site a">
+	<div id="page" class="site ab">
 		<!-- #content -->
 		<div id="content" class="site-content">
