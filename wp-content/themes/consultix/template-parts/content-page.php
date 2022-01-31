@@ -10,7 +10,7 @@
 ?>
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-	<header class="entry-header">
+	<header class="entry-header c">
 		<?php 
 		$rt_blog_style = consultix_global_var( 'blog-style','',false );
 		if ( ( '' == $rt_blog_style ) && get_post() && !preg_match( '/vc_row/', get_post()->post_content ) ) : ?>
