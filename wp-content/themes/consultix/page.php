@@ -16,7 +16,7 @@ get_header(); ?>
 <?php if ( class_exists( 'Tribe__Events__Main' ) && ( ( tribe_is_past() || tribe_is_upcoming() && !is_tax() ) || ( tribe_is_month() && !is_tax() ) || ( tribe_is_day() && !is_tax() ) ) ) { ?>
     <!-- wraper-radiantthemes-event -->
     <div class="wraper-radiantthemes-event">
-        <div class="container">
+        <div class="container b">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <?php
@@ -33,7 +33,7 @@ get_header(); ?>
 <?php } elseif ( class_exists( 'Tribe__Events__Main' ) && is_singular( 'tribe_events' ) ) { ?>
     <div id="primary" class="content-area">
         <main id="main" class="site-main">
-            <div class="container">
+            <div class="container c">
                 <?php
                 while ( have_posts() ) : the_post();
                     the_content();
@@ -48,7 +48,7 @@ get_header(); ?>
     		<?php if ( get_post() && ! preg_match( '/vc_row/', get_post()->post_content ) ) : ?>
     			<div class="wraper_blog_main default-page">
     		<?php endif; ?>
-    			<div class="container">
+    			<div class="container d">
     				<?php
     				while ( have_posts() ) :
     					the_post();

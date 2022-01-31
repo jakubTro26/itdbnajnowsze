@@ -10,7 +10,7 @@
 <footer class="wraper_footer style-five">
 	<!-- wraper_footer_navigation -->
 	<div class="wraper_footer_navigation">
-		<div class="container">
+		<div class="container n">
 			<!-- row -->
 			<div class="row">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -43,7 +43,7 @@
 	?>
 	<!-- wraper_footer_main -->
 	<div class="wraper_footer_main">
-		<div class="container">
+		<div class="container o">
 			<!-- row -->
 			<div class="row footer_main">
 				<?php
@@ -82,7 +82,7 @@
     ?>
 	<!-- wraper_footer_copyright -->
 	<div class="wraper_footer_copyright">
-		<div class="container">
+		<div class="container p">
 			<!-- row -->
 			<div class="row footer_copyright">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">

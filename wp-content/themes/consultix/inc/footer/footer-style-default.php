@@ -11,7 +11,7 @@
 <footer class="wraper_footer style-one">
 	<!-- wraper_footer_copyright -->
 	<div class="wraper_footer_copyright">
-		<div class="container">
+		<div class="container l">
 			<!-- row -->
 			<div class="row footer_copyright a">
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">

@@ -19,7 +19,7 @@
 	?>
 	<!-- wraper_footer_main -->
 	<div class="wraper_footer_main">
-		<div class="container">
+		<div class="container m">
 			<!-- row -->
 			<div class="row footer_main">
 				<?php
@@ -58,7 +58,7 @@
     ?>
 	<!-- wraper_footer_copyright -->
 	<div class="wraper_footer_copyright">
-		<div class="container">
+		<div class="container m">
 			<!-- row -->
 			<div class="row footer_copyright">
 				<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">

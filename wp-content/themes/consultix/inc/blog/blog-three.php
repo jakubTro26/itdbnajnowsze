@@ -8,7 +8,7 @@
 ?>
 <!-- wraper_blog_main -->
 <div class="wraper_blog_main">
-	<div class="container">
+	<div class="container k">
 		<!-- row -->
 		<div class="row">
 			<?php if ( 'nosidebar' === consultix_global_var( 'blog-layout', '', false ) ) { ?>

@@ -8,7 +8,7 @@
 ?>
 <!-- wraper_blog_main -->
 <div class="wraper_blog_main">
-	<div class="container">
+	<div class="container i">
 		<!-- row -->
 		<div class="row">
 			<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
