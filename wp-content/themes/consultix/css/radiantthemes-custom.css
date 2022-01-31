@@ -5234,7 +5234,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 }
 
-@media (max-width: 757px ) and (min-width: 300px){
+@media (max-width: 757px ) and (min-width: 350px){
     .vc_empty_space{
         display:none;
     }
@@ -5267,7 +5267,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     }
 }
 
-@media (max-width: 300px){
+@media (max-width: 350px){
     .row1{
         height: 241px !important;
     }
