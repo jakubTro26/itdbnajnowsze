@@ -5219,7 +5219,14 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 
 
-
+@media (max-width: 270px){
+    .row1{
+        height: 241px !important;
+    }
+    .vc_small{
+        height: 112px !important;
+    }
+}
 
 @media (min-width: 757px)
 {
@@ -5267,11 +5274,3 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     }
 }
 
-@media (max-width: 270px){
-    .row1{
-        height: 241px !important;
-    }
-    .vc_small{
-        height: 112px !important;
-    }
-}
