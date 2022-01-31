@@ -5274,4 +5274,23 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     .vc_small{
         height: 112px !important;
     }
+    .vc_empty_space{
+        display:none;
+    }
+    .obraz1{
+        text-align:center !important;
+    }
+    .tekst2{
+        text-align:center !important;
+    }
+    .vc_custom_1642175769090{
+        display:none;
+    }
+    .vc_custom_1519806405086{
+        padding-bottom: 0px !important;
+    }
+    .vc_custom_1519806405086{
+        padding-bottom:0px !important;
+    }
+
 }
