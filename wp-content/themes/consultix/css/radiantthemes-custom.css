@@ -5239,7 +5239,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
         display:none;
     }
     .obraz1{
-        text-align:center;
+        text-align:center !important;
     }
 
 }
