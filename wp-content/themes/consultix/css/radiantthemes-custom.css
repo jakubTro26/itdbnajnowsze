@@ -5242,7 +5242,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
         text-align:center !important;
     }
     .tekst2{
-        text-align:center;
+        text-align:center !important;
     }
 
 }
