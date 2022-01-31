@@ -5267,7 +5267,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     }
 }
 
-@media (max-width: 270px){
+@media (max-width: 300px){
     .row1{
         height: 241px !important;
     }
