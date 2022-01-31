@@ -867,7 +867,9 @@ if ( is_front_page() && is_home() ) { ?>
 							<!-- inner_banner_main -->
 							<div class="inner_banner_main">
 								<?php if ( get_post_meta( $post->ID, 'banner_title', true ) ) : ?>
-									<?php var_dump($post->ID) ; ?>
+									<?php var_dump($post->ID) ;
+									echo 'kuba123';
+									?>
 									<p class="title">
 										<?php echo esc_html( get_post_meta( $post->ID, 'banner_title', true ) ); ?>
 									</p>
