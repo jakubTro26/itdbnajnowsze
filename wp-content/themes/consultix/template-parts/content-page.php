@@ -28,7 +28,7 @@
 			the_content();
 
 			
-			if('post'=='post'){
+			if('post'!=the_ID()){
 				echo 'takf';	
 			}
 
