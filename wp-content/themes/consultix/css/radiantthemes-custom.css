@@ -5274,7 +5274,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 
 
-.h41,.h42{
+.Ro21 .h41, .Row1 .h42{
     font-size: 14px;
     color: #273272;
     line-height: 26px;
@@ -5284,20 +5284,17 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     margin-bottom: 0px;
 }
 
-.ln1,.ln2{
+.Row1 .ln1,.Row1 .ln2{
     text-align: center;
 }
 
 
 
-.li1{
-    text-align: center;
-   
-}
-.li2{
+.Row1 .li1,.Row1 .li2{
     text-align: center;
    
 }
+
 
 @media (min-width: 757px)
 {
@@ -5336,7 +5333,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     width:1170px;
 }
 
-.l1,.l2{
+.Row1 .l1, .Row1 .l2{
     flex:50%;
     display:flex;
 }

@@ -32,7 +32,7 @@
 			
 		}
 		else{
-			the_content();
+	
 			?>
 		<div class='archContainer'>
 				
@@ -78,6 +78,638 @@
 						</div>
 					</div>
 				</div>
+				<div class="Row2">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row3">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row3">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row4">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row5">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row6">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row7">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row8">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row9">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row10">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row11">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row12">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row13">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+									Cloud Computing
+								</h4>
+								<div class="nh1">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+									Cloud Computing
+								</h4>
+								<div class="nh2">
+									18.10.2021 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
 			
 																	
 				
