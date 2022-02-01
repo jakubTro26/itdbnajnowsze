@@ -22,7 +22,7 @@
 	<div class="entry-content">
 		<?php
 
-			if(the_ID()=='11484NULL'){
+			if('11484'==the_ID()){
 				echo 'tak';
 			}
 		
