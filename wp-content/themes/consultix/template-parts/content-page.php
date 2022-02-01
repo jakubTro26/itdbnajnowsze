@@ -24,7 +24,7 @@
 
 
 		if(strpos(esc_html(post_class() ), 'post')){
-			echo 'tak';	
+			echo 'takf';	
 		}
 		
 			the_content();
