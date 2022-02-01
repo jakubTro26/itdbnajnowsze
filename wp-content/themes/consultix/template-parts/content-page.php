@@ -22,7 +22,9 @@
 	<div class="entry-content">
 		<?php
 
-			var_dump(the_ID());
+			if(the_ID()=='11484NULL'){
+				echo 'tak';
+			}
 		
 		
 			the_content();
