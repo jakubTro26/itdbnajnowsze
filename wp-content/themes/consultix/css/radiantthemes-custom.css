@@ -5288,7 +5288,9 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     text-align: center;
 }
 
-
+.li1,.li2{
+    text-align: center;
+}
 
 @media (min-width: 757px)
 {
