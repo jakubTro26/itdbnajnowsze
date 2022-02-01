@@ -5325,5 +5325,6 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 @media(max-width: 753px){
     .Row1{
         display:block;
+        width: 392px;
     }
 }
