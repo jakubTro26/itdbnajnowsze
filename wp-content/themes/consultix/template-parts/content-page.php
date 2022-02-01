@@ -23,7 +23,7 @@
 		<?php
 
 
-		if(strpos( post_class() , 'post-11484')){
+		if(strpos(esc_html(post_class() ), 'post')){
 			echo 'tak';	
 		}
 		
