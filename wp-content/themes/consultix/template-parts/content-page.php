@@ -41,12 +41,12 @@
 						<div class='li1'>
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
-								<div class="ln1">
+								<div class="lk1">
 										18.10.2012
 								</div>
 							
 						</div>
-						<div class='lk1'>
+						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
 									Cloud Computing
@@ -61,7 +61,7 @@
 						<div class='li2'>
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
-								<div class="ln2">
+								<div class="lk2">
 										18.10.2012
 								</div>
 							
