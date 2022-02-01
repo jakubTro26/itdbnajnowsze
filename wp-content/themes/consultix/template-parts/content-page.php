@@ -21,8 +21,13 @@
 	</header><!-- .entry-header -->
 	<div class="entry-content">
 		<?php
+
+			if(the_ID()!=11484){
 			the_content();
 
+			}
+
+				
 			wp_link_pages(
 				array(
 					'before' => '<div class="page-links">' . esc_html__( 'Pages:', 'consultix' ),
