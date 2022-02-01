@@ -35,19 +35,42 @@
 			the_content();
 			?>
 		<div class='archContainer'>
-				<div class='l1'>
-
-				</div>
-				<div class='l1'>
-					<div clas='li1'>
-
+				
+				<div class="row1">
+					<div class='l1'>
+						<div clas='li1'>
+							<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+							<div class="ln1">
+									18.10.2012
+							</div>
+						</div>
+						<div class='ln1'>
+							<h4 class="h41">
+								Cloud Computing
+							</h4>
+							<div class="nh1">
+								18.10.2021 Warszawa
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div clas='li2'>
+							<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+							<div class="ln2">
+									18.10.2012
+							</div>
+						</div>
+						<div class='ln2'>
+							<h4 class="h42">
+								Cloud Computing
+							</h4>
+							<div class="nh2">
+								18.10.2021 Warszawa
+							</div>
+						</div>
 					</div>
 				</div>
-				<div class='l2'>
-					<div class="li2">
-						
-					</div>
-				</div>
+			
 																	
 				
 				
