@@ -39,9 +39,11 @@
 				<div class="Row1">
 					<div class='l1'>
 						<div clas='li1'>
-							<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
-							<div class="ln1">
-									18.10.2012
+							<div class='lo1'>
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln1">
+										18.10.2012
+								</div>
 							</div>
 						</div>
 						<div class='ln1'>
@@ -55,9 +57,11 @@
 					</div>
 					<div class='l2'>
 						<div clas='li2'>
-							<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
-							<div class="ln2">
-									18.10.2012
+							<div class='lo2'>
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="ln2">
+										18.10.2012
+								</div>
 							</div>
 						</div>
 						<div class='ln2'>
