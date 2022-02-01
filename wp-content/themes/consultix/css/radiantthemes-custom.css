@@ -5315,3 +5315,9 @@ body .default-page .comments-area{    padding-top: 80px !important;}
         width:920px;
     }
 }
+
+@media (max-width: 986px){
+    .row1{
+        width:735px;
+    }
+}
