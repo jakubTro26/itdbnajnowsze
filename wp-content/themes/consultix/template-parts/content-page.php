@@ -22,8 +22,10 @@
 	<div class="entry-content">
 		<?php
 
-			var_dump(post_class());
-		
+
+		if(strpos( post_class() , 'post-11484')){
+			echo 'tak';	
+		}
 		
 			the_content();
 
