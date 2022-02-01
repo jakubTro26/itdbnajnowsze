@@ -22,7 +22,7 @@
 	<div class="entry-content">
 		<?php
 
-			//var_dump(the_ID());
+			var_dump(the_ID());
 		
 		
 			the_content();
