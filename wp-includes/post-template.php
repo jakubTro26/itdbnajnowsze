@@ -17,6 +17,11 @@ function the_ID() { // phpcs:ignore WordPress.NamingConventions.ValidFunctionNam
 	echo get_the_ID();
 }
 
+
+function return_ID(){
+
+	return get_the_ID();
+}
 /**
  * Retrieve the ID of the current item in the WordPress Loop.
  *
