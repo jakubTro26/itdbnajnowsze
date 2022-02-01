@@ -23,14 +23,14 @@
 		<?php
 
 
-		if(strpos(esc_html(post_class() ), 'post')){
-			echo 'takf';	
-		}
+		
 		
 			the_content();
 
 			
-
+			if(strpos(esc_html(post_class() ), 'post')){
+				echo 'takf';	
+			}
 
 			wp_link_pages(
 				array(
