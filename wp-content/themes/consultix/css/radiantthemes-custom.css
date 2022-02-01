@@ -5272,6 +5272,13 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 }
 
+
+
+.h41,.h42{
+    font-size: 15px;
+}
+
+
 @media (min-width: 757px)
 {
 .obraz1 {
@@ -5328,3 +5335,4 @@ body .default-page .comments-area{    padding-top: 80px !important;}
         width: 392px;
     }
 }
+
