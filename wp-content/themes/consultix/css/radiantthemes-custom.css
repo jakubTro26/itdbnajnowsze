@@ -5274,7 +5274,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 
 
-.Ro21 .h41, .Row1 .h42{
+.Row21 .h41, .Row1 .h42{
     font-size: 14px;
     color: #273272;
     line-height: 26px;
@@ -5309,7 +5309,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 }
 
-.lo1,.lo2{
+.Row1 .lo1, .Row1 .lo2{
     position: relative;     
     top: 50%;
     transform: translateY(-50%);
