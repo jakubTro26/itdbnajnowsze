@@ -22,9 +22,7 @@
 	<div class="entry-content">
 		<?php
 
-			if('11484'==the_ID()){
-				echo 'tak';
-			}
+			var_dump(post_class());
 		
 		
 			the_content();
