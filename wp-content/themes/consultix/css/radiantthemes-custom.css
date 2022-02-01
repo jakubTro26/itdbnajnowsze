@@ -5357,6 +5357,13 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     }
 }
 
+@media(max-width: 415px){
+    .Row1{
+        display:block;
+        width: 246px;
+    }
+}
+
 
 .Row1 .ln1, .Row1 .ln2{
     margin-left: 10px;
