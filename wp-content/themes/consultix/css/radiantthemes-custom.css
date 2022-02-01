@@ -5292,7 +5292,11 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 .li1{
     text-align: center;
-    display:none;
+   
+}
+.li2{
+    text-align: center;
+   
 }
 
 @media (min-width: 757px)
