@@ -32,7 +32,28 @@
 			
 		}
 		else{
-			
+			the_content();
+			?>
+		<div class='archContainer'>
+				<div class='l1'>
+
+				</div>
+				<div class='l1'>
+					<div clas='li1'>
+
+					</div>
+				</div>
+				<div class='l2'>
+					<div class="li2">
+						
+					</div>
+				</div>
+																	
+				
+				
+			</div>
+
+	<?php
 		}
 
 			wp_link_pages(
