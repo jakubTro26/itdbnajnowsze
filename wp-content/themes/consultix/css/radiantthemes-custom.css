@@ -5283,6 +5283,11 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     font-style: normal;
 }
 
+.ln1,.ln2{
+    text-align: center;
+}
+
+
 
 @media (min-width: 757px)
 {
