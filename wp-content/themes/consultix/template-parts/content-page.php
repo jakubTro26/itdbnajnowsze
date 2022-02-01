@@ -28,7 +28,7 @@
 			the_content();
 
 			
-			if(strpos(esc_html(post_class() ), 'post')){
+			if('post'=='post'){
 				echo 'takf';	
 			}
 
