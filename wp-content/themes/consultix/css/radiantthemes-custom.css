@@ -5302,6 +5302,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 
 .row1{
     display:flex;
+    width:1170px;
 }
 
 .l1,.l2{
