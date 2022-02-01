@@ -38,7 +38,7 @@
 				
 				<div class="Row1">
 					<div class='l1'>
-						<div clas='li1'>
+						<div class='li1'>
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="ln1">
@@ -58,7 +58,7 @@
 						</div>
 					</div>
 					<div class='l2'>
-						<div clas='li2'>
+						<div class='li2'>
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="ln2">
