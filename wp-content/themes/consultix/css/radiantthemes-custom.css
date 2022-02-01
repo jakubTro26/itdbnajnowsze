@@ -5300,7 +5300,7 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 }
 
 
-.row1{
+.Row1{
     display:flex;
     width:1170px;
 }
@@ -5311,13 +5311,19 @@ body .default-page .comments-area{    padding-top: 80px !important;}
 }
 
 @media (max-width:1200px){
-    .row1{
+    .Row1{
         width:920px;
     }
 }
 
 @media (max-width: 986px){
-    .row1{
+    .Row1{
         width:735px;
+    }
+}
+
+@media(max-width: 753px){
+    .Row1{
+        display:block;
     }
 }

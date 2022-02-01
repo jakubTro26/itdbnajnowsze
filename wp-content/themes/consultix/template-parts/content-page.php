@@ -36,7 +36,7 @@
 			?>
 		<div class='archContainer'>
 				
-				<div class="row1">
+				<div class="Row1">
 					<div class='l1'>
 						<div clas='li1'>
 							<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
