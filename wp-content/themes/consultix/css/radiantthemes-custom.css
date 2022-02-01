@@ -5309,3 +5309,9 @@ body .default-page .comments-area{    padding-top: 80px !important;}
     flex:50%;
     display:flex;
 }
+
+@media (max-width:1200px){
+    .row1{
+        width:920px;
+    }
+}
