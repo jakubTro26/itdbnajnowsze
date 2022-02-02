@@ -5296,6 +5296,9 @@ body .default-page .comments-area{    padding-top: 80px !important;}
    
 }
 
+.h41,.nh1{
+    text-align: left;
+}
 
 @media (min-width: 757px)
 {
