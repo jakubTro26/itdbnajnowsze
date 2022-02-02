@@ -232,17 +232,17 @@
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								20.06.2013
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Business Intelligence Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								20.06.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -254,17 +254,21 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								27.06.2013
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								EDU IT Trends
+
+
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								27.06.2013 Warszawa
+
+
 								</div>
 							</div>
 						</div>
@@ -274,17 +278,17 @@
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								03.07.2013
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Banking Tech&Security
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								03.07.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -296,17 +300,17 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								28.08.2013
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								IT Logistic Tech
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								28.08.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -316,17 +320,17 @@
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								12.09.2013
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Workflow & Document Management Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								12.09.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -338,17 +342,17 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								17.10.2013
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Knowledge Management Solutions
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								17.10.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -358,17 +362,17 @@
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								24.10.2013
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Data Center Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								24.10.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -380,17 +384,17 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								27.11.2013
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								BPM Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								27.11.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -400,17 +404,17 @@
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								28.11.2013
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								IT Security Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								28.11.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -422,17 +426,19 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								27.02.2014
+
+
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Workflow & Document Management Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								27.02.2014 Warszawa
 								</div>
 							</div>
 						</div>
@@ -442,17 +448,19 @@
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								5.12.2013
+
+
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Digital Signage Summit
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								5.12.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -464,17 +472,17 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								20.03.2014
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Cloud Computing Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								20.03.2014 Warszawa 
 								</div>
 							</div>
 						</div>
