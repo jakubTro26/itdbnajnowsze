@@ -42,14 +42,100 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								18.10.2012
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Cloud Computing
+								</h4>
+								<div class="nh1">
+								18.10.2012 Warszawa
+
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								25.10.2012
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Data Center – nowoczesne centrum danych
+								</h4>
+								<div class="nh2">
+								25.10.2012 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								28.11.2012
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								BPM – efektywne zarządzanie…
+								</h4>
+								<div class="nh1">
+								28.11.2012 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								22.01.2013
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Edu IT – nowoczesne technologie dla szkół
+								</h4>
+								<div class="nh2">
+								22.01.2013 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								24.01.2013
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Trendy IT 2013
 								</h4>
 								<div class="nh1">
 									18.10.2021 Warszawa
@@ -62,17 +148,17 @@
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								28.02.2013
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Document Workflow
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								28.02.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -84,17 +170,17 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								20.03.2013
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Backup & Storage Systems
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								20.03.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -104,17 +190,17 @@
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								21.03.2013
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								GIS – innowacyjne i nowoczesne…
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								21.03.2013 Warszawa
 								</div>
 							</div>
 						</div>
@@ -126,101 +212,17 @@
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								16.05.2013
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								ERP – skuteczne zarządzanie zasobami firmy
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class='l2'>
-						<div class='li2'>
-						
-								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
-								<div class="lk2">
-										18.10.2012
-								</div>
-							
-						</div>
-						<div class='ln2'>
-							<div class='lo2'>
-								<h4 class="h42">
-									Cloud Computing
-								</h4>
-								<div class="nh2">
-									18.10.2021 Warszawa
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="Row1">
-					<div class='l1'>
-						<div class='li1'>
-							
-								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
-								<div class="lk1">
-										18.10.2012
-								</div>
-							
-						</div>
-						<div class='ln1'>
-							<div class='lo1'>
-								<h4 class="h41">
-									Cloud Computing
-								</h4>
-								<div class="nh1">
-									18.10.2021 Warszawa
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class='l2'>
-						<div class='li2'>
-						
-								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
-								<div class="lk2">
-										18.10.2012
-								</div>
-							
-						</div>
-						<div class='ln2'>
-							<div class='lo2'>
-								<h4 class="h42">
-									Cloud Computing
-								</h4>
-								<div class="nh2">
-									18.10.2021 Warszawa
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="Row1">
-					<div class='l1'>
-						<div class='li1'>
-							
-								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
-								<div class="lk1">
-										18.10.2012
-								</div>
-							
-						</div>
-						<div class='ln1'>
-							<div class='lo1'>
-								<h4 class="h41">
-									Cloud Computing
-								</h4>
-								<div class="nh1">
-									18.10.2021 Warszawa
+								16.05.2013 Warszawa
 								</div>
 							</div>
 						</div>
