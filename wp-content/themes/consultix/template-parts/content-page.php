@@ -1986,17 +1986,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								28.11.2017
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								EDU IT TRENDS
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								28.11.2017, Warszawa
 								</div>
 							</div>
 						</div>
@@ -2008,17 +2008,535 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								29.11.2017
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								BPM TRENDS
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								29.11.2017, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								6.12.2017
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								HR Solutions Trends
+								</h4>
+								<div class="nh2">
+								6.12.2017, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								15.12.2017
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Crypto Future Conference
+								</h4>
+								<div class="nh1">
+								15.12.2017, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								28.02.2018
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Workflow & Document Management Trends
+								</h4>
+								<div class="nh2">
+								28.02.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								22.05.2018
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								HR Solutions Trends
+								</h4>
+								<div class="nh1">
+								22.05.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								23.05.2018
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Edu IT Trends
+								</h4>
+								<div class="nh2">
+								23.05.2018, Warszawa 
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								20.09.2018
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								IT Future Expo
+								</h4>
+								<div class="nh1">
+								22.05.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								24.05.2018
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								BPM Trends
+
+
+								</h4>
+								<div class="nh2">
+								24.05.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								27.09.2018
+
+
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Data Center Trends
+
+
+								</h4>
+								<div class="nh1">
+								22.05.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								26.09.2018
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Workflow & Document Management Trends
+
+
+								</h4>
+								<div class="nh2">
+								24.05.2018, Warszawa 
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								24.10.2018
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								BIG DATA SUMMIT
+								</h4>
+								<div class="nh1">
+								24.10.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								02.10.2018
+
+
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								E-commere Summit
+								</h4>
+								<div class="nh2">
+								24.05.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								29.11.2018
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								BPM TRENDS
+								</h4>
+								<div class="nh1">
+								29.11.2018, Warszawa 
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								25.10.2018
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								BACKUP & STORAGE SYSTEMS
+								</h4>
+								<div class="nh2">
+								25.10.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								6.12.2018
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								HR SOLUTIONS TRENDS
+								</h4>
+								<div class="nh1">
+								6.12.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								28.11.2018
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								EDU IT TRENDS
+								</h4>
+								<div class="nh2">
+								28.11.2018, Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								24.01.2019
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Digital Signage Summit
+								</h4>
+								<div class="nh1">
+								24.01.2019 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								5.12.2018
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								BI TRENDS
+								</h4>
+								<div class="nh2">
+								5.12.2018, Warszawa 
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								28.02.2019
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Kongres Księgowość Przyszłości
+
+
+								</h4>
+								<div class="nh1">
+								28.02.2019 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								23.01.2019
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								IT Security Trends
+								</h4>
+								<div class="nh2">
+								23.01.2019 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								27.03.2019
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Banking Tech & Security
+								</h4>
+								<div class="nh1">
+								27.03.2019 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								27.02.2019
+
+
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Workflow Trends
+								</h4>
+								<div class="nh2">
+								27.02.2019 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								25.04.2019
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								BPM Trends
+								</h4>
+								<div class="nh1">
+								25.04.2019 Warszawa 
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								28.03.2019
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								HR Solutions Trends
+								</h4>
+								<div class="nh2">
+								28.03.2019 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								25.06.2019
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Business Intelligence Trends
+								</h4>
+								<div class="nh1">
+								25.06.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2050,17 +2568,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								25.06.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Business Intelligence Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								25.06.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2092,17 +2610,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								25.06.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Business Intelligence Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								25.06.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2134,17 +2652,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								25.06.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Business Intelligence Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								25.06.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2176,17 +2694,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								25.06.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Business Intelligence Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								25.06.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2196,17 +2714,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								24.04.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Data Center Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								24.04.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2218,17 +2736,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								26.09.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								IT Career Summit
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								26.09.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2238,17 +2756,19 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								26.06.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Kongres Cyfrowa Transformacja
+
+
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								26.06.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2260,17 +2780,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								2.10.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Workflow&Document Management Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								2.10.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2280,17 +2800,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								18.09.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								IT Security Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								18.09.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2302,17 +2822,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								24.10.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Banking Tech&Security
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								2.10.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2322,17 +2842,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								26.09.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								IT Future Expo
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								26.09.2019 Warszawa 
 								</div>
 							</div>
 						</div>
@@ -2344,17 +2864,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								24.10.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Banking Tech&Security
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								2.10.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2364,17 +2884,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								26.09.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								IT Future Expo
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								26.09.2019 Warszawa 
 								</div>
 							</div>
 						</div>
@@ -2386,17 +2906,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								24.10.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Banking Tech&Security
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								2.10.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2406,17 +2926,61 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								26.09.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								IT Future Expo
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								26.09.2019 Warszawa 
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								24.10.2019
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Banking Tech&Security
+								</h4>
+								<div class="nh1">
+								2.10.2019 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								26.09.2019
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								IT Future Expo
+								</h4>
+								<div class="nh2">
+								26.09.2019 Warszawa 
 								</div>
 							</div>
 						</div>
@@ -2428,17 +2992,19 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								28.11.2019
+
+
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								E-commerce summit
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								28.11.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2448,17 +3014,19 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								26.11.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Backup&Storage Systems
+
+
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								26.11.2019 Warszawa 
 								</div>
 							</div>
 						</div>
@@ -2470,17 +3038,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								4.12.2019
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								HR Solutions Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								4.12.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2490,17 +3058,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								27.11.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								EDU IT Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								27.11.2019 Warszawa
 								</div>
 							</div>
 						</div>
@@ -2512,17 +3080,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								29.01.2020
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								IT Security Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								29.01.2020 Warszawa 
 								</div>
 							</div>
 						</div>
@@ -2532,23 +3100,281 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								5.12.2019
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Business Intelligence Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								5.12.2019 Warszawa 
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								21.04.2020
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Workflow Trends
+								</h4>
+								<div class="nh1">
+								21.04.2020 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								30.01.2020
+
+
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Kongres Księgowość Przyszłości
+
+
+								</h4>
+								<div class="nh2">
+								30.01.2020 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								25.11.2020
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								BPM Trends
+								</h4>
+								<div class="nh1">
+								Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								25.02.2021
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Workflow Trends
+								</h4>
+								<div class="nh2">
+								Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								26.11.2020
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								IT Security Trends 
+								</h4>
+								<div class="nh1">
+								Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								27.11.2019
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								EDU IT Trends
+								</h4>
+								<div class="nh2">
+								27.11.2019 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								25.02.2021
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								Workflow Trends 
+								</h4>
+								<div class="nh1">
+								Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								23.03.2021
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								BPM Trends
+								</h4>
+								<div class="nh2">
+								 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								09.12.2020
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								BI Trends 
+								</h4>
+								<div class="nh1">
+								Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								10.12.2020
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								Cyfrowa Transformacja w Biznesie
+								</h4>
+								<div class="nh2">
+								 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="Row1">
+					<div class='l1'>
+						<div class='li1'>
+							
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk1">
+								03.03.2021
+								</div>
+							
+						</div>
+						<div class='ln1'>
+							<div class='lo1'>
+								<h4 class="h41">
+								IT Security Trends
+
+ 
+								</h4>
+								<div class="nh1">
+								Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class='l2'>
+						<div class='li2'>
+						
+								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
+								<div class="lk2">
+								25.03.2021
+								</div>
+							
+						</div>
+						<div class='ln2'>
+							<div class='lo2'>
+								<h4 class="h42">
+								E-commerce summit
+								</h4>
+								<div class="nh2">
+								 Warszawa
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
 
 			
 																	
