@@ -1001,17 +1001,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								25.03.2015
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Big Data Summit
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								25.03.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1023,17 +1023,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								26.03.2015
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Backup Storage Systems Summit
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								26.03.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1043,17 +1043,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								23.04.2015
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Infratech – infrastruktura fizyczna
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								23.04.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1065,17 +1065,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								26.05.2015
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								E-commerce Summit
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								26.05.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1085,17 +1085,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								27.05.2015
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								HR Solutions Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								27.05.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1107,17 +1107,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								27.05.2015
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								ERP Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								27.05.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1127,17 +1127,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								11.06.2015
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								IT Future Expo, Stadion Narodowy
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								11.06.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1149,17 +1149,19 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								23.06.2015
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Business Intelligence Trends
+
+
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								23.06.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1169,17 +1171,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								23.09.2015
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Workflow & Document Management Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								23.09.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1191,17 +1193,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								24.09.2015
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Mobile Summit
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								24.09.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1211,17 +1213,19 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								30.09.2015
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Data Center Trends
+
+
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								30.09.2015, Warszawa 
 								</div>
 							</div>
 						</div>
@@ -1233,17 +1237,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								22.10.2015
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								EDU IT TRENDS
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								22.10.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1253,17 +1257,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								18.11.2015
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Backup & Storage Systems
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								18.11.2015, Warszawa 
 								</div>
 							</div>
 						</div>
@@ -1275,17 +1279,19 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								19.11.2015
+
+
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Business Process Management Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								19.11.2015, Warszawa 
 								</div>
 							</div>
 						</div>
@@ -1295,17 +1301,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								26.11.2015
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								IT Future Expo, Stadion Wrocław
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								26.11.2015, Warszawa 
 								</div>
 							</div>
 						</div>
@@ -1317,17 +1323,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								3.12.2015
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								HR Solution Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								3.12.2015, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1337,17 +1343,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								26.01.2016
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								BPM Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								26.01.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1359,17 +1365,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								27.01.2016
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Banking Tech & Security
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								27.01.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1379,17 +1385,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								24.02.2016
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								HR Solutions Trends
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								24.02.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1401,17 +1407,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								23.02.2016
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Workflow & Document Management Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								23.02.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1421,17 +1427,18 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								25.02.2016
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Infratech – infrastruktura fizyczna
+dla serwerowni i centrów danych
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								25.02.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1443,17 +1450,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								16.03.2016
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								IT Security Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								16.03.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1463,17 +1470,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								17.03.2016
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Big Data Summit
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								17.03.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1485,17 +1492,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								20.04.2016
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Digital Signage Summit
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								20.04.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1505,17 +1512,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								26.04.2016
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								Backup & Storage Systems
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								26.04.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1527,17 +1534,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								21.06.2016
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								Business Intelligence Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								21.06.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1547,17 +1554,19 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								31.05.2016
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								E-commerce Summit
+
+
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								31.05.2016, Warszawa 
 								</div>
 							</div>
 						</div>
@@ -1569,17 +1578,17 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								18.05.2016
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								HR Solutions Trends
 								</h4>
 								<div class="nh1">
-									18.10.2021 Warszawa
+								18.05.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1589,17 +1598,17 @@ dla serwerowni i centrów danych
 						
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk2">
-										18.10.2012
+								27.10.2016
 								</div>
 							
 						</div>
 						<div class='ln2'>
 							<div class='lo2'>
 								<h4 class="h42">
-									Cloud Computing
+								WORKFLOW & DOCUMENT MANAGEMENT TRENDS
 								</h4>
 								<div class="nh2">
-									18.10.2021 Warszawa
+								27.10.2016, Warszawa
 								</div>
 							</div>
 						</div>
@@ -1611,14 +1620,16 @@ dla serwerowni i centrów danych
 							
 								<img src="http://itdb.biz/wp-content/uploads/2022/01/icon1.jpg">
 								<div class="lk1">
-										18.10.2012
+								24.11.2016
 								</div>
 							
 						</div>
 						<div class='ln1'>
 							<div class='lo1'>
 								<h4 class="h41">
-									Cloud Computing
+								BPM TRENDS
+
+
 								</h4>
 								<div class="nh1">
 									18.10.2021 Warszawa
